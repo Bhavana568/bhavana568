@@ -82,7 +82,7 @@
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mysql" /> </a>
     
-    <a href="https://www.overleaf.com/project" target="_blank"> <img
+<!--     <a href="https://www.overleaf.com/project" target="_blank"> <img
         src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-svg-vector.svg"
         alt="latex" width="40" height="40" /> </a>
     
@@ -90,7 +90,7 @@
         src="https://pngimg.com/uploads/photoshop/photoshop_PNG11.png"
         alt="photoshop" width="40" height="40" /> </a>
     
-    <a href="" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustartor" width="40" height="40" /> </a>
+    <a href="" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustartor" width="40" height="40" /> </a> -->
 
 
 
