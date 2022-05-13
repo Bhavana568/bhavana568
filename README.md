@@ -77,6 +77,7 @@
    <a href="https://www.mysql.com/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /> </a>
+    
    <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mysql" /> </a>
@@ -84,13 +85,12 @@
     <a href="https://www.overleaf.com/project" target="_blank"> <img
         src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-svg-vector.svg"
         alt="latex" width="40" height="40" /> </a>
-   <a href="https://www.adobe.com/in/products/photoshop/landpa.html?sdid=SGDJMMG3&mv=search&ef_id=Cj0KCQjwg_iTBhDrARIsAD3Ib5g8AOuHMMkCwpJzbZGBnWPJ6twFqa4ErsaA6Md4uhiXvSJLJzkqDGkaAmeQEALw_wcB:G:s&s_kwcid=AL!3085!3!585712413968!e!!g!!adobe%20photoshop!16470706475!133281435039&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5g8AOuHMMkCwpJzbZGBnWPJ6twFqa4ErsaA6Md4uhiXvSJLJzkqDGkaAmeQEALw_wcB" target="_blank"> <img
-        src="https://pngimg.com/uploads/photoshop/photoshop_PNG11.png"
-        alt="mysql" /> </a>
     
-    <a href="https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=Cj0KCQjwg_iTBhDrARIsAD3Ib5iAMZt_Prtjv8-E8-sMn8e_Y22jjb9eUTN15ogMnItEb3lDeurtgmYaAs2fEALw_wcB:G:s&s_kwcid=AL!3085!3!248235017693!e!!g!!adobe%20illustrator!221172068!17525759228&gclid=Cj0KCQjwg_iTBhDrARIsAD3Ib5iAMZt_Prtjv8-E8-sMn8e_Y22jjb9eUTN15ogMnItEb3lDeurtgmYaAs2fEALw_wcB" target="_blank"> <img
-        src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png"
-        alt="latex" width="40" height="40" /> </a
+   <a href="" target="_blank"> <img
+        src="https://pngimg.com/uploads/photoshop/photoshop_PNG11.png"
+        alt="photoshop" width="40" height="40" /> </a>
+    
+    <a href="" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustartor" width="40" height="40" /> </a>
 
    <br>
 
