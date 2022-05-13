@@ -1,44 +1,55 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Bhavana
-</h1>
-<h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
-<h3 align="center">Full Stack Web Developer and Graphic Designing Enthusiast</h3>
-<!--
-**Bhavana568/bhavana568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="en">
 
-Here are some ideas to get you started:
+<body>
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Bhavana
+  </h1>
+  <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
+  <h3 align="center">Full Stack Web Developer and Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Go, Node and Spring.
-- 👯 I’m looking to collaborate on any Open Source Projects.
-- 📫 How to reach me: **bhavnabafna.bb@gmail.com**
-- 😄 Pronouns: She, her.
-- ⚡ Fun fact: Skilled at Problem Solving, Leadership, Public Speaking, Management skills and designing. Other skills include sketching, content writing and music. I am a Confident, Tolerant and Positive person .
--->
+  - 🔭 I’m currently working on Mutual Funds Broker App 
+  - 🌱 I’m currently learning Spring | Sring Boot | Spring Webflux
+  - 💬 Ask me about **JavaScript : React : Express Js : MongoDB**
+  - 📫 Reach me at **daigavane70@gmail.com**
 
-<div width="100%" align="center" ><img align="center" height='300' width='400' src='https://bit.ly/3laCYX8'></img></div>
-
-### Connect With Me :
-<div>
- <a href="https://www.linkedin.com/in/bhavana-bafna-2b80991a6/">
-<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
+  <p align="left"> <img
+      src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
+      alt="daigavane70" /> </p>
   
-</div>
+  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
+  
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
 
-<br >
-<br />
 
-<!-- ### Languages and Tools:
-<div>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white' alt="cplusplus" /> </a>
-<img align="left" alt="HTML5" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
+ <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
+        src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
+        alt="cplusplus" /> </a>
+    <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
+        src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'
+        alt="JavaScript" /> </a>
+    <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
         src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
         alt="JavaScript" /> </a>
- <img align="left" alt="React" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <a href="https://getbootstrap.com/" target="_blank"> <img
+    <a href="https://www.java.com" target="_blank"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+        width="40" height="40" /> </a>
+    <a href="https://github.com/" target="_blank"> <img
+        src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+        alt="python" /> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img
+        src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+    </a>
+
+ <br>
+
+<a href="https://reactjs.org/" target="_blank"> <img
+        src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="React" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img
         src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'
         alt="Bootstrap" /> </a>
     <a href="https://redux.js.org/" target="_blank"> <img
@@ -53,8 +64,32 @@ Here are some ideas to get you started:
     <a href="https://material-ui.com/" target="_blank"> <img
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
         alt="material-ui" /> </a>
-<img align="left" alt="Node.js" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="33px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</div> -->
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img
+        src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+
+   <br>
+
+   <a href="https://www.mysql.com/" target="_blank"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40" /> </a>
+   <a href="https://www.mongodb.com/" target="_blank"> <img
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mysql" /> </a>
+
+   <br>
+
+  <p align="center"><img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
+      alt="daigavane70" /></p>
+
+  <p align="center">&nbsp;<img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
+      alt="daigavane70" /></p>
+
+  <!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daigavane70&theme=prussian" alt="daigavane70" /></p>
+-->
+
+</body>
+
+</html>
