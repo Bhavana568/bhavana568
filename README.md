@@ -7,8 +7,6 @@
   <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
   <h3 align="center">Full Stack Web Developer and Graphic Design Enthusiast</h3>
 
-  Here are some ideas to get you started:
-
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Go, Node and Spring.
 - 👯 I’m looking to collaborate on any Open Source Projects.
