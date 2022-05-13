@@ -72,7 +72,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 
-   <br>
+
 
    <a href="https://www.mysql.com/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -92,7 +92,7 @@
     
     <a href="" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-0-1.png" alt="illustartor" width="40" height="40" /> </a>
 
-   <br>
+
 
 <!--   <p align="center"><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
