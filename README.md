@@ -17,9 +17,9 @@
 - ⚡ Fun fact: Skilled at Problem Solving, Leadership, Public Speaking, Management skills and designing. Other skills include sketching, content writing and music. I am a Confident, Tolerant and Positive person .
 -->
 
-  <p align="left"> <img
+<!--   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
-      alt="daigavane70" /> </p>
+      alt="daigavane70" /> </p> -->
   
   <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://bit.ly/3laCYX8'></img></div>
   
