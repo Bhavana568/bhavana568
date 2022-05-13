@@ -5,18 +5,23 @@
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Bhavana
   </h1>
   <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
-  <h3 align="center">Full Stack Web Developer and Cloud Enthusiast</h3>
+  <h3 align="center">Full Stack Web Developer and Graphic Design Enthusiast</h3>
 
-  - 🔭 I’m currently working on Mutual Funds Broker App 
-  - 🌱 I’m currently learning Spring | Sring Boot | Spring Webflux
-  - 💬 Ask me about **JavaScript : React : Express Js : MongoDB**
-  - 📫 Reach me at **daigavane70@gmail.com**
+  Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Go, Node and Spring.
+- 👯 I’m looking to collaborate on any Open Source Projects.
+- 📫 How to reach me: **bhavnabafna.bb@gmail.com**
+- 😄 Pronouns: She, her.
+- ⚡ Fun fact: Skilled at Problem Solving, Leadership, Public Speaking, Management skills and designing. Other skills include sketching, content writing and music. I am a Confident, Tolerant and Positive person .
+-->
 
   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
   
-  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
+  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://bit.ly/3laCYX8'></img></div>
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
@@ -78,13 +83,13 @@
 
    <br>
 
-  <p align="center"><img align="center"
+<!--   <p align="center"><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
       alt="daigavane70" /></p>
 
   <p align="center">&nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
-      alt="daigavane70" /></p>
+      alt="daigavane70" /></p> -->
 
   <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daigavane70&theme=prussian" alt="daigavane70" /></p>
