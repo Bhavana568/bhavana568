@@ -71,8 +71,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 
-
-
    <a href="https://www.mysql.com/" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" /> </a>
